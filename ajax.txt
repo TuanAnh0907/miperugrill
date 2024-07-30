@@ -1,0 +1,3 @@
+<div id="ajaxed">
+  <span>We have a large South American and Spanish wine and beer selection, charcoal and wood rotisserie, and a great variety of Peruvian steak, chicken and sea food dishes.</span>
+</div>

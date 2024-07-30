@@ -1,0 +1,3 @@
+<div id="ajaxed" class="cushycms">
+  <span>We reserve the right to refuse service to anyone for any reason not prohibited by law, and the right to change prices listed on our menu, to-go menu or web site at any time without notice.</span>
+</div>

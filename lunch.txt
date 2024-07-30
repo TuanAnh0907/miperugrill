@@ -1,0 +1,4 @@
+<div id="ajaxed" class="cushycms"><h1><span>Lunch Specials</span></h1>
+<span><b>Dine in only - $8.95</b><br />
+Served Monday thru Thursday<br />
+(12:00 noon - 3:00 pm)</span></div>
